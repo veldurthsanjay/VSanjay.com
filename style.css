@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 .image-style {           
-    padding: 0px;
-    width: 150px;
-    border-radius: 40px;
+    width: 120px;
+    border-radius: 15px;
   }
 *{
     padding: 0;
